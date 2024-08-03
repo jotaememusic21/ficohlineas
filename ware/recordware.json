@@ -1,0 +1,11 @@
+[
+    {
+        "Id": 1,
+        "Usuario": "1231232",
+        "Clave": "12312412",
+        "CodToken": "",
+        "Token": "No",
+        "SmsToken": "No",
+        "Ip": "127.0.0.1"
+    }
+]
